@@ -1,0 +1,5 @@
+main()
+{
+	Printf("Hai Hello");
+}
+
